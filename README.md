@@ -27,7 +27,7 @@ Further changes are here for your contribution:
 
 Downlad
 
-https://github.com/amtwebsolution/CorePHP-Admin-with-Mongodb
+https://github.com/amitchauhan500/PHP-Admin-with-Mongodb
 
 For install instructions:
 
