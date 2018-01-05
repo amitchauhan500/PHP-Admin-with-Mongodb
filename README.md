@@ -47,5 +47,5 @@ For install instructions:
    
    8. then run admin. username: admin password: admin@123
    
-for any feedback, please go to amtwebsolution.com and email to amtwebsolution@gmail.com and Skype id: @amtwebsolution
+for any feedback, please go to amit-chauhan.com and email to amitchauhan500@gmail.com and Skype id: @amitchauhan500
   
